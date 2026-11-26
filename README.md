@@ -1,17 +1,20 @@
-# news-image-20261125
+# The Daily World — 25 November 2026
 
 [![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 [![rank](https://make.fun/badge/news-image-20261125/ahkamq321-glitch/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 [![reward](https://make.fun/badge/news-image-20261125/ahkamq321-glitch/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
-The Daily World: one image summing up Wednesday 25 November 2026 world news — Hormuz tanker mines, the Houthi strike on Ras Tanura, Shenzhou-24 carrying Pakistan's first astronaut, US tariffs, the Wall Street slide, the Huawei verdict, Ukraine, and the Australia–Solomon Islands treaty.
+One image summing up Wednesday 25 November 2026 in world news: a newspaper front page, "The Daily World", dated Wednesday, 25 November 2026. The lead story is the Strait of Hormuz tanker incident, with more story panels from that day across regions and fields, plus an "ALSO TODAY" ticker.
 
-## Run it
+## The entry
 
-```sh
-mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
-```
+- `entry.png` (1024×1024) is the image itself.
+- `main.ts` (Node 22, standard library only) copies it to the output directory: `MAKEFUN_OUTPUT_DIR`, default `/output`.
+
+## Bounty
+
+Built for make.fun's ["Sum up 25 November's world news in one image"](https://make.fun/bounty/news-image-20261125) bounty — $100 in USDC.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=3qxkam06&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
+Built with [make.fun](https://make.fun) · Referral code: `3qxkam06`
